@@ -1,4 +1,4 @@
 # prob
 
-Visualisation implementing CausalNex © QuantumBlack
+Visualisation implementing CausalNex API © QuantumBlack
 
