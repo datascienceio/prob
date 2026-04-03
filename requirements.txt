@@ -1,0 +1,7 @@
+causalnex==0.12.1
+pandas>=1.3
+numpy>=1.21
+networkx>=2.6
+pyvis>=0.3
+scikit-learn>=1.0
+playwright>=1.40
